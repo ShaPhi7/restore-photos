@@ -1,0 +1,8 @@
+# Ignore everything in the repo
+*
+
+# But do not ignore the gitignore itself
+!.gitignore
+
+# Keep the restore PowerShell script
+!restore_google_photos.ps1
