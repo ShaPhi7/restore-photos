@@ -6,3 +6,4 @@
 
 # Keep the restore PowerShell script
 !restore_google_photos.ps1
+!flatten_nonjson.ps1
